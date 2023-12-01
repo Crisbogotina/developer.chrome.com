@@ -76,7 +76,7 @@ This Permissions Policy API and Reporting API integration allows web developers 
 
 Of course there’s plenty more.
 
-* The [relaxed CSS nesting implementation](/blog/css-nesting-relaxed-syntax-update/) allows nested style rules to begin with an element, rather than being wrapped with is() or requiring an ampersand in front.
+* The [relaxed CSS nesting implementation](/blog/css-nesting-relaxed-syntax-update/) allows nested style rules to begin with an element, rather than being wrapped with `is()` or requiring an ampersand in front.
 
 * With the [`enterpictureinpicture`](https://developer.mozilla.org/docs/Web/API/HTMLVideoElement/enterpictureinpicture_event) action in the Media Session API, websites can register an action handler which can be used to open a Picture-in-Picture or Document Picture-in-Picture window.
 
